@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-error   error
+error   error error
 ${requestScope.ex}
 </body>
 </html>
